@@ -1,0 +1,10 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingInterfaces\bin\Debug\ChattingInterfaces.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingInterfaces\bin\Debug\ChattingInterfaces.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingInterfaces\obj\Debug\ChattingInterfaces.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingInterfaces\obj\Debug\ChattingInterfaces.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingInterfaces\obj\Debug\ChattingInterfaces.csprojResolveAssemblyReference.cache
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingInterfaces\bin\Debug\ChattingInterfaces.dll
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingInterfaces\bin\Debug\ChattingInterfaces.pdb
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingInterfaces\obj\Debug\ChattingInterfaces.csprojResolveAssemblyReference.cache
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingInterfaces\obj\Debug\ChattingInterfaces.dll
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingInterfaces\obj\Debug\ChattingInterfaces.pdb

@@ -1,0 +1,8 @@
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingServer\bin\Release\ChattingServer.exe.config
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingServer\bin\Release\ChattingServer.exe
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingServer\bin\Release\ChattingServer.pdb
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingServer\bin\Release\ChattingInterfaces.dll
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingServer\bin\Release\ChattingInterfaces.pdb
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingServer\obj\Release\ChattingServer.csprojResolveAssemblyReference.cache
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingServer\obj\Release\ChattingServer.exe
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingServer\obj\Release\ChattingServer.pdb

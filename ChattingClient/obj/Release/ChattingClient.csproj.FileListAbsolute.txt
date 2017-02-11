@@ -1,0 +1,16 @@
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\bin\Release\ChattingClient.exe.config
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\bin\Release\ChattingClient.exe
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\bin\Release\ChattingClient.pdb
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\bin\Release\ChattingInterfaces.dll
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\bin\Release\ChattingInterfaces.pdb
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Release\ChattingClient.csprojResolveAssemblyReference.cache
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Release\MainWindow.g.cs
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Release\App.g.cs
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Release\ChattingClient_MarkupCompile.cache
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Release\ChattingClient_MarkupCompile.lref
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Release\MainWindow.baml
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Release\ChattingClient.g.resources
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Release\ChattingClient.Properties.Resources.resources
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Release\ChattingClient.csproj.GenerateResource.Cache
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Release\ChattingClient.exe
+D:\Backups\BACKUPUsuários12-12-2016\Users\Felipe\Documents\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Release\ChattingClient.pdb
